@@ -15,7 +15,7 @@ in the root directory call:
 
     vagrant up
 
-this should setup the Ubuntu 14.04 VM for you and after that provision the VM using with:
+this should setup the Ubuntu 14.04 VM for you and after that provision the VM with:
 
 * ruby  - 2.1.3
 * rails - 4.1.6
