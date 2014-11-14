@@ -19,3 +19,15 @@ this should setup the Ubuntu 14.04 VM for you and after that provision the VM us
 
 * ruby  - 2.1.3
 * rails - 4.1.6
+
+# Login
+
+use the command:
+
+    vagrant ssh
+
+to get to the rbenv based user type:
+
+    su rbenv
+    
+and use *rbenvuser* as password
